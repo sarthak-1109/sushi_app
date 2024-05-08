@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420333560450",
+    "project_id": "fir-tutorial-c009f",
+    "storage_bucket": "fir-tutorial-c009f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420333560450:android:72379e34487193bdd8ca9b",
+        "android_client_info": {
+          "package_name": "com.example.sushi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-n8jXmm1WLRCfbl9XWs3XN61BgtaxTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
